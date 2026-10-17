@@ -51,4 +51,11 @@ Sumaya Sultana
 Chemical Engineering Graduate
 Rajshahi University of Engineering & Technology (RUET), Bangladesh
 
+## Swelling Analysis Chart
+
+![Hydrogel swelling comparison](hydrogel_swelling_chart.png)
+
+**Data note:** This figure uses illustrative data for demonstration, not experimental thesis results.
+
+
 LinkedIn:https://www.linkedin.com/in/sumaiya-sultana-b55298337
